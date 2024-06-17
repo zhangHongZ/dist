@@ -1,0 +1,1 @@
+import{_ as s}from"./index.db7b04df.js";import{r as n,o,c as t,e as c,f as l}from"./index.4196b790.js";const _={__name:"index",setup(p){const e=n("/admin/applications");return(u,r)=>(o(),t("div",null,[c(l(s),{src:e.value,"onUpdate:src":r[0]||(r[0]=a=>e.value=a)},null,8,["src"])]))}};export{_ as default};

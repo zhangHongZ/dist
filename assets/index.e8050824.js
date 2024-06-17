@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o}from"./index.4196b790.js";const n={},t={class:"app-container home"};function s(r,a){return c(),o("div",t," \u9996\u9875 ")}const i=e(n,[["render",s]]);export{i as default};
